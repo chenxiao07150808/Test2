@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Test2</string>
+    <string name="add">增加</string>
+    <string name="reduce">减少</string>
+    <string name="reset">重置</string>
+    <string name="time">进度条</string>
+    <string name="two">两个按钮</string>
+    <string name="three">三个按钮</string>
+    <string name="view">显示视图</string>
+    <string name="select">多选按钮</string>
+    <string name="oneselect">单选按钮</string>
+    <string name="list">列表数据</string>
+    <string name="personview">自定义视图</string>
+    <string name="Onclick1">单击按钮</string>
+    <string name="Onshow">显示视图</string>
+    <string name="Self">自定义视图</string>
+    <string name="OnlySelect">单选列表</string>
+    <string name="reSelect">复选框</string>
+    <string name="Select">列表框</string>
+    <string name="download">开始下载</string>
+    <string name="menu_1">菜单1</string>
+    <string name="menu_2">菜单2</string>
+    <string name="menu_3">菜单3</string>
+</resources>
